@@ -16,4 +16,3 @@ def game_setup():
 #     #x or o positions
 
 game_setup();
-print("\n")

@@ -14,7 +14,6 @@
   </div>
   
   <div class="container">
-    <!-- REST OF THE CODE -->
     <h2 id="winner"></h2>
     <button onclick="reset_board()">RESET BOARD</button>
   </div>
